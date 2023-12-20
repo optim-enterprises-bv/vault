@@ -49,7 +49,6 @@ require (
 	github.com/axiomhq/hyperloglog v0.0.0-20220105174342-98591331716a
 	github.com/cenkalti/backoff/v3 v3.2.2
 	github.com/chrismalek/oktasdk-go v0.0.0-20181212195951-3430665dfaa0
-	github.com/client9/misspell v0.3.4
 	github.com/cockroachdb/cockroach-go v0.0.0-20181001143604-e0a95dfd547c
 	github.com/coreos/go-systemd v0.0.0-20191104093116-d3cd4ed1dbcf
 	github.com/denisenkom/go-mssqldb v0.12.3
@@ -58,7 +57,6 @@ require (
 	github.com/dustin/go-humanize v1.0.1
 	github.com/fatih/color v1.16.0
 	github.com/fatih/structs v1.1.0
-	github.com/favadi/protoc-go-inject-tag v1.4.0
 	github.com/gammazero/workerpool v1.1.3
 	github.com/ghodss/yaml v1.0.1-0.20190212211648-25d852aebe32
 	github.com/go-errors/errors v1.5.0
@@ -71,7 +69,6 @@ require (
 	github.com/gocql/gocql v1.0.0
 	github.com/golang-jwt/jwt/v4 v4.5.0
 	github.com/golang/protobuf v1.5.3
-	github.com/golangci/revgrep v0.0.0-20220804021717-745bb2f7c2e6
 	github.com/google/go-cmp v0.5.9
 	github.com/google/go-github v17.0.0+incompatible
 	github.com/google/go-metrics-stackdriver v0.2.0
@@ -82,7 +79,6 @@ require (
 	github.com/hashicorp/cli v1.1.6
 	github.com/hashicorp/consul-template v0.36.0
 	github.com/hashicorp/consul/api v1.26.1
-	github.com/hashicorp/consul/sdk v0.15.0
 	github.com/hashicorp/errwrap v1.1.0
 	github.com/hashicorp/eventlogger v0.2.8
 	github.com/hashicorp/go-bexpr v0.1.12
@@ -101,7 +97,6 @@ require (
 	github.com/hashicorp/go-kms-wrapping/wrappers/transit/v2 v2.0.8
 	github.com/hashicorp/go-memdb v1.3.4
 	github.com/hashicorp/go-metrics v0.5.1
-	github.com/hashicorp/go-msgpack/v2 v2.1.1
 	github.com/hashicorp/go-multierror v1.1.1
 	github.com/hashicorp/go-plugin v1.6.0
 	github.com/hashicorp/go-raftchunking v0.6.3-0.20191002164813-7e9e8525653a
@@ -229,14 +224,10 @@ require (
 	golang.org/x/tools v0.14.0
 	google.golang.org/api v0.139.0
 	google.golang.org/grpc v1.58.3
-	google.golang.org/grpc/cmd/protoc-gen-go-grpc v1.1.0
 	google.golang.org/protobuf v1.31.0
 	gopkg.in/ory-am/dockertest.v3 v3.3.4
-	gotest.tools/gotestsum v1.10.0
-	honnef.co/go/tools v0.4.3
 	k8s.io/utils v0.0.0-20230406110748-d93618cff8a2
 	layeh.com/radius v0.0.0-20190322222518-890bc1058917
-	mvdan.cc/gofumpt v0.5.0
 	nhooyr.io/websocket v1.8.7
 )
 
@@ -331,7 +322,6 @@ require (
 	github.com/dgryski/go-metro v0.0.0-20180109044635-280f6062b5bc // indirect
 	github.com/digitalocean/godo v1.7.5 // indirect
 	github.com/dimchansky/utfbom v1.1.1 // indirect
-	github.com/dnephin/pflag v1.0.7 // indirect
 	github.com/docker/cli v23.0.3+incompatible // indirect
 	github.com/docker/distribution v2.8.2+incompatible // indirect
 	github.com/docker/go-connections v0.4.0 // indirect
@@ -344,7 +334,6 @@ require (
 	github.com/envoyproxy/protoc-gen-validate v1.0.2 // indirect
 	github.com/evanphx/json-patch/v5 v5.6.0 // indirect
 	github.com/form3tech-oss/jwt-go v3.2.5+incompatible // indirect
-	github.com/fsnotify/fsnotify v1.6.0 // indirect
 	github.com/gabriel-vasile/mimetype v1.4.2 // indirect
 	github.com/gammazero/deque v0.2.1 // indirect
 	github.com/go-asn1-ber/asn1-ber v1.5.4 // indirect
@@ -389,6 +378,7 @@ require (
 	github.com/hailocab/go-hostpool v0.0.0-20160125115350-e80d13ce29ed // indirect
 	github.com/hashicorp/cronexpr v1.1.1 // indirect
 	github.com/hashicorp/go-immutable-radix v1.3.1 // indirect
+	github.com/hashicorp/go-msgpack/v2 v2.1.1 // indirect
 	github.com/hashicorp/go-secure-stdlib/fileutil v0.1.0 // indirect
 	github.com/hashicorp/go-secure-stdlib/plugincontainer v0.3.0 // indirect
 	github.com/hashicorp/go-slug v0.12.1 // indirect
@@ -515,7 +505,6 @@ require (
 	go.opentelemetry.io/otel/metric v1.19.0 // indirect
 	go.uber.org/multierr v1.7.0 // indirect
 	go.uber.org/zap v1.19.1 // indirect
-	golang.org/x/exp/typeparams v0.0.0-20221208152030-732eee02a75a // indirect
 	golang.org/x/mod v0.13.0 // indirect
 	golang.org/x/time v0.3.0 // indirect
 	golang.org/x/xerrors v0.0.0-20220907171357-04be3eba64a2 // indirect
