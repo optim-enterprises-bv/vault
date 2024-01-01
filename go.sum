@@ -2166,8 +2166,9 @@ github.com/hashicorp/go-hclog v0.14.1/go.mod h1:whpDNt7SSdeAju8AWKIWsul05p54N/39
 github.com/hashicorp/go-hclog v0.16.2/go.mod h1:whpDNt7SSdeAju8AWKIWsul05p54N/39EeqMAyrmvFQ=
 github.com/hashicorp/go-hclog v1.0.0/go.mod h1:whpDNt7SSdeAju8AWKIWsul05p54N/39EeqMAyrmvFQ=
 github.com/hashicorp/go-hclog v1.4.0/go.mod h1:W4Qnvbt70Wk/zYJryRzDRU/4r0kIg0PVHBcfoyhpF5M=
-github.com/hashicorp/go-hclog v1.5.0 h1:bI2ocEMgcVlz55Oj1xZNBsVi900c7II+fWDyV9o+13c=
 github.com/hashicorp/go-hclog v1.5.0/go.mod h1:W4Qnvbt70Wk/zYJryRzDRU/4r0kIg0PVHBcfoyhpF5M=
+github.com/hashicorp/go-hclog v1.6.2 h1:NOtoftovWkDheyUM/8JW3QMiXyxJK3uHRK7wV04nD2I=
+github.com/hashicorp/go-hclog v1.6.2/go.mod h1:W4Qnvbt70Wk/zYJryRzDRU/4r0kIg0PVHBcfoyhpF5M=
 github.com/hashicorp/go-immutable-radix v1.0.0/go.mod h1:0y9vanUI8NX6FsYoO3zeMjhV/C5i9g4Q3DwcSNZ4P60=
 github.com/hashicorp/go-immutable-radix v1.3.0/go.mod h1:0y9vanUI8NX6FsYoO3zeMjhV/C5i9g4Q3DwcSNZ4P60=
 github.com/hashicorp/go-immutable-radix v1.3.1 h1:DKHmCUm2hRBK510BaiZlwvpD40f8bJFeZnpfm2KLowc=
@@ -2359,8 +2360,8 @@ github.com/hashicorp/vault-plugin-secrets-kubernetes v0.6.0 h1:DePS4sSAbjYTQrpTP
 github.com/hashicorp/vault-plugin-secrets-kubernetes v0.6.0/go.mod h1:4nPWdBQxjIEGZaWWPKHixN7MFHjESOlOtNyy02e/w9c=
 github.com/hashicorp/vault-plugin-secrets-kv v0.16.2 h1:HdluNBrYGEEAJ1IrP3/T5RRgha16VGRlAisAlSB2hvI=
 github.com/hashicorp/vault-plugin-secrets-kv v0.16.2/go.mod h1:oJwVConr6pkDIIO8q8OO3FP5WtWj/iSWuhiPVdKt67E=
-github.com/hashicorp/vault-plugin-secrets-mongodbatlas v0.10.2 h1:5eFlzhFXoSe+ntm26wromhtLbPjTCdXcdwpMv7wFeHk=
-github.com/hashicorp/vault-plugin-secrets-mongodbatlas v0.10.2/go.mod h1:OdXvez+GH0XBSRS7gxbS8B1rLUPb8bGk+bDVyEaAzI8=
+github.com/hashicorp/vault-plugin-secrets-mongodbatlas v0.10.2-0.20240101001746-8c8fe12185ab h1:l5k0ICj+lfWfaP2eY7QzytCr7t3AA5j6iYb15E6XV/0=
+github.com/hashicorp/vault-plugin-secrets-mongodbatlas v0.10.2-0.20240101001746-8c8fe12185ab/go.mod h1:HLfTHpLFDX6l2DyBQr41SNPraaV9rVr8fxdc5inz7cU=
 github.com/hashicorp/vault-plugin-secrets-openldap v0.11.2 h1:LNzIP4zfWivAy/hgCIwETJFr7BBS91bsJ6AlsGhqAc8=
 github.com/hashicorp/vault-plugin-secrets-openldap v0.11.2/go.mod h1:osvWc6/BOZPR8Mdqp5dF40dAaHddEiylO1pDRI7DOqo=
 github.com/hashicorp/vault-plugin-secrets-terraform v0.7.3 h1:k5jCx6laFvQHvrQod+TSHSoDqF3ZSIlQB4Yzj6koz0I=
@@ -3304,8 +3305,8 @@ go.etcd.io/etcd/raft/v3 v3.5.5/go.mod h1:76TA48q03g1y1VpTue92jZLr9lIHKUNcYdZOOGy
 go.etcd.io/etcd/server/v3 v3.5.0/go.mod h1:3Ah5ruV+M+7RZr0+Y/5mNLwC+eQlni+mQmOVdCRJoS4=
 go.etcd.io/etcd/server/v3 v3.5.5/go.mod h1:rZ95vDw/jrvsbj9XpTqPrTAB9/kzchVdhRirySPkUBc=
 go.etcd.io/gofail v0.1.0/go.mod h1:VZBCXYGZhHAinaBiiqYvuDynvahNsAyLFwB3kEHKz1M=
-go.mongodb.org/atlas v0.33.0 h1:qJhkEuJufh7sVDVHorTF/D7G7naQ1EJAzqf1aV29JWs=
-go.mongodb.org/atlas v0.33.0/go.mod h1:L4BKwVx/OeEhOVjCSdgo90KJm4469iv7ZLzQms/EPTg=
+go.mongodb.org/atlas v0.36.0 h1:m05S3AO7zkl+bcG1qaNsEKBnAqnKx2FDwLooHpIG3j4=
+go.mongodb.org/atlas v0.36.0/go.mod h1:nfPldE9dSama6G2IbIzmEza02Ly7yFZjMMVscaM0uEc=
 go.mongodb.org/mongo-driver v1.0.3/go.mod h1:u7ryQJ+DOzQmeO7zB6MHyr8jkEQvC8vH7qLUO4lqsUM=
 go.mongodb.org/mongo-driver v1.1.1/go.mod h1:u7ryQJ+DOzQmeO7zB6MHyr8jkEQvC8vH7qLUO4lqsUM=
 go.mongodb.org/mongo-driver v1.3.0/go.mod h1:MSWZXKOynuguX+JSvwP8i+58jYCXxbia8HS3gZBapIE=
