@@ -145,7 +145,7 @@ require (
 	github.com/hashicorp/vault-plugin-database-mongodbatlas v0.10.1
 	github.com/hashicorp/vault-plugin-database-redis v0.2.2
 	github.com/hashicorp/vault-plugin-database-redis-elasticache v0.2.3
-	github.com/hashicorp/vault-plugin-database-snowflake v0.9.0
+	github.com/hashicorp/vault-plugin-database-snowflake v0.9.1-0.20240101001340-265bde81856d
 	github.com/hashicorp/vault-plugin-mock v0.16.1
 	github.com/hashicorp/vault-plugin-secrets-ad v0.16.1
 	github.com/hashicorp/vault-plugin-secrets-alicloud v0.15.1
@@ -161,7 +161,7 @@ require (
 	github.com/hashicorp/vault/api v1.10.0
 	github.com/hashicorp/vault/api/auth/approle v0.1.0
 	github.com/hashicorp/vault/api/auth/userpass v0.1.0
-	github.com/hashicorp/vault/sdk v0.10.0
+	github.com/hashicorp/vault/sdk v0.10.2
 	github.com/hashicorp/vault/vault/hcp_link/proto v0.0.0-20230201201504-b741fa893d77
 	github.com/influxdata/influxdb1-client v0.0.0-20200827194710-b269163b24ab
 	github.com/jackc/pgx/v4 v4.18.1
@@ -216,14 +216,14 @@ require (
 	go.opentelemetry.io/otel/trace v1.16.0
 	go.uber.org/atomic v1.11.0
 	go.uber.org/goleak v1.2.1
-	golang.org/x/crypto v0.14.0
+	golang.org/x/crypto v0.15.0
 	golang.org/x/exp v0.0.0-20230522175609-2e198f4a06a1
-	golang.org/x/net v0.17.0
+	golang.org/x/net v0.18.0
 	golang.org/x/oauth2 v0.11.0
 	golang.org/x/sync v0.3.0
 	golang.org/x/sys v0.14.0
-	golang.org/x/term v0.13.0
-	golang.org/x/text v0.13.0
+	golang.org/x/term v0.14.0
+	golang.org/x/text v0.14.0
 	golang.org/x/tools v0.10.0
 	google.golang.org/api v0.139.0
 	google.golang.org/grpc v1.58.3
@@ -482,7 +482,7 @@ require (
 	github.com/sirupsen/logrus v1.9.0 // indirect
 	github.com/skeema/knownhosts v1.1.1 // indirect
 	github.com/skratchdot/open-golang v0.0.0-20200116055534-eef842397966 // indirect
-	github.com/snowflakedb/gosnowflake v1.6.24 // indirect
+	github.com/snowflakedb/gosnowflake v1.7.1 // indirect
 	github.com/softlayer/softlayer-go v0.0.0-20180806151055-260589d94c7d // indirect
 	github.com/sony/gobreaker v0.4.2-0.20210216022020-dd874f9dd33b // indirect
 	github.com/spf13/cast v1.5.1 // indirect
