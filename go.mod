@@ -88,7 +88,7 @@ require (
 	github.com/hashicorp/go-cleanhttp v0.5.2
 	github.com/hashicorp/go-discover v0.0.0-20210818145131-c573d69da192
 	github.com/hashicorp/go-gcp-common v0.8.0
-	github.com/hashicorp/go-hclog v1.5.0
+	github.com/hashicorp/go-hclog v1.6.2
 	github.com/hashicorp/go-kms-wrapping/entropy/v2 v2.0.0
 	github.com/hashicorp/go-kms-wrapping/v2 v2.0.13
 	github.com/hashicorp/go-kms-wrapping/wrappers/aead/v2 v2.0.7-1
@@ -103,7 +103,7 @@ require (
 	github.com/hashicorp/go-multierror v1.1.1
 	github.com/hashicorp/go-plugin v1.6.0
 	github.com/hashicorp/go-raftchunking v0.6.3-0.20191002164813-7e9e8525653a
-	github.com/hashicorp/go-retryablehttp v0.7.4
+	github.com/hashicorp/go-retryablehttp v0.7.5
 	github.com/hashicorp/go-rootcerts v1.0.2
 	github.com/hashicorp/go-secure-stdlib/awsutil v0.2.3
 	github.com/hashicorp/go-secure-stdlib/base62 v0.1.2
@@ -156,12 +156,12 @@ require (
 	github.com/hashicorp/vault-plugin-secrets-kv v0.16.2
 	github.com/hashicorp/vault-plugin-secrets-mongodbatlas v0.10.2
 	github.com/hashicorp/vault-plugin-secrets-openldap v0.11.2
-	github.com/hashicorp/vault-plugin-secrets-terraform v0.7.3
+	github.com/hashicorp/vault-plugin-secrets-terraform v0.7.4-0.20240104234754-cc66a2bf08f2
 	github.com/hashicorp/vault-testing-stepwise v0.1.4
 	github.com/hashicorp/vault/api v1.10.0
 	github.com/hashicorp/vault/api/auth/approle v0.1.0
 	github.com/hashicorp/vault/api/auth/userpass v0.1.0
-	github.com/hashicorp/vault/sdk v0.10.0
+	github.com/hashicorp/vault/sdk v0.10.2
 	github.com/hashicorp/vault/vault/hcp_link/proto v0.0.0-20230201201504-b741fa893d77
 	github.com/influxdata/influxdb1-client v0.0.0-20200827194710-b269163b24ab
 	github.com/jackc/pgx/v4 v4.18.1
@@ -220,7 +220,7 @@ require (
 	golang.org/x/exp v0.0.0-20230817173708-d852ddb80c63
 	golang.org/x/net v0.17.0
 	golang.org/x/oauth2 v0.11.0
-	golang.org/x/sync v0.3.0
+	golang.org/x/sync v0.5.0
 	golang.org/x/sys v0.15.0
 	golang.org/x/term v0.15.0
 	golang.org/x/text v0.14.0
@@ -390,9 +390,9 @@ require (
 	github.com/hashicorp/go-msgpack/v2 v2.0.0 // indirect
 	github.com/hashicorp/go-secure-stdlib/fileutil v0.1.0 // indirect
 	github.com/hashicorp/go-secure-stdlib/plugincontainer v0.3.0 // indirect
-	github.com/hashicorp/go-slug v0.12.1 // indirect
-	github.com/hashicorp/go-tfe v1.33.0 // indirect
-	github.com/hashicorp/jsonapi v0.0.0-20210826224640-ee7dae0fb22d // indirect
+	github.com/hashicorp/go-slug v0.13.3 // indirect
+	github.com/hashicorp/go-tfe v1.42.0 // indirect
+	github.com/hashicorp/jsonapi v1.2.0 // indirect
 	github.com/hashicorp/logutils v1.0.0 // indirect
 	github.com/hashicorp/mdns v1.0.4 // indirect
 	github.com/hashicorp/net-rpc-msgpackrpc/v2 v2.0.0 // indirect
@@ -516,7 +516,7 @@ require (
 	go.uber.org/zap v1.19.1 // indirect
 	golang.org/x/exp/typeparams v0.0.0-20221208152030-732eee02a75a // indirect
 	golang.org/x/mod v0.12.0 // indirect
-	golang.org/x/time v0.3.0 // indirect
+	golang.org/x/time v0.5.0 // indirect
 	golang.org/x/xerrors v0.0.0-20220907171357-04be3eba64a2 // indirect
 	google.golang.org/appengine v1.6.7 // indirect
 	google.golang.org/genproto v0.0.0-20231016165738-49dd2c1f3d0b // indirect
